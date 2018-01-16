@@ -40,7 +40,7 @@ public class CalDay {
 	* Constructs an invalid CalDay object
 	*/
 	public CalDay() {
-		valid = false;
+		valid = true;
 	}
 	
 	/**
